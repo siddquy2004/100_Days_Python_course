@@ -1,4 +1,4 @@
-# Learning outcome: 'nested-if statement', 'if-elif-else statement', 'multiple if with succession'
+# Concept used: 'nested-if statement', 'if-elif-else statement', 'multiple if with succession'
 # Problem: If user height is above 120cm then they will be allowed rollercoaster riding --> if user age is <12 then them is child & pay $5, elif user age is <18 then them is young & pay $7, else their age is over 18 then them are are adult & pay $12 --> if user wants a phot take then they pay additional $3. 
 
 print("Welcome to the rollercoaster ride!")
