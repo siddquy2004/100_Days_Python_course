@@ -24,4 +24,3 @@ if height >=120:
         print(f"Your final bill is {bill}")
 else:
     print("Sorry, you have to grow taller before you can ride")
-    
